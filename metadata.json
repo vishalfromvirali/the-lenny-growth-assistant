@@ -1,0 +1,6 @@
+{
+  "name": "The Lenny Growth Assistant",
+  "description": "Enterprise-grade Forward Deployed AI Assistant grounded in Lenny's Podcast transcripts with Claude-style artifact rendering, Ship 30 for 30 content skill, flexible Cloud/Ollama LLM toggle, and interactive FDE handover suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
